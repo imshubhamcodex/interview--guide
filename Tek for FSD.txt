@@ -1,0 +1,27 @@
+Front end:
+	- HTML CSS JS
+	- React Vue
+	- Bootstrap
+	- Chat.js D3.js
+
+Back end:
+	- Spring Boot Spring MVC
+	- Node.js Express.js Backbone.js
+	- Hibernate JPA
+
+Database:
+	- NoSQL : MongoDB HBase
+	- SQL : mySQL PostgreSql
+	- SQL functions SQL procedures
+
+Source Control:
+	- Git
+
+Android software:
+	- Ionic
+	- Capacitor
+
+Deployment Tech:
+	- DevOps 
+	- Agile
+
